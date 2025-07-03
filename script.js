@@ -75,7 +75,7 @@ uploadInput.addEventListener("change", async (event) => {
 //////////////
 
 //let d1, d2, d3, d4, h1, h2, h3, h4, h5;
-let pd1, pd2, pd3, pd4, ph1, ph2, ph3, ph4, ph5;
+var pd1, pd2, pd3, pd4, ph1, ph2, ph3, ph4, ph5;
 const D = d1 + d2 + d3 + d4;
 const H = h1 + h2 + h3 + h4 + h5;
 
